@@ -22,3 +22,11 @@ $ echo 'layout_pipenv
 PATH=$PATH:$HOME/.pyenv/versions/anaconda3-2019.03/bin' > .envrc
 $ direnv allow
 ```
+
+## Jupyter Lab の起動
+
+```
+$ jupyter lab
+```
+
+Jupyter Lab が起動すると自動でブラウザで Jupyter Lab が開かれる
