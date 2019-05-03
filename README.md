@@ -8,7 +8,7 @@ http://kogolab.chillout.jp/elearn/index.html
 
 2019/05/03 時点で最新の anaconda（anaconda3-2019.03）を利用している。
 
-## もう少し詳細に
+## セットアップ手順
 
 * OS : macOS 10.14
 * python バージョン管理 : pyenv
